@@ -5,7 +5,7 @@ import threading
 def tarea_1():
     print('Esperando tarea 1...')
 
-    for x in range(10000000):
+    for x in range(100000000):
         pass
     
     print('Listo tarea 1')

@@ -1,7 +1,12 @@
 # Práctico 2b para Arquitectura y Sistemas Operativos UTN
 
-<ol>
-    <li>El tiempo de ejecución no es predecible</li>
-    <li></li>
-    <li></li>
-</ol>
+* 1a) Capturas
+
+<img src="./images/Jessica_captura_sinhilos.jpg">
+
+<br>
+
+<img src="./images/sergio_captura_sin_hilos.png">
+
+
+No
