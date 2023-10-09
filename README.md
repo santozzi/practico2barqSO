@@ -10,6 +10,8 @@ procesador intel core i7 11° generación
 <img src="./images/sergio_capturas_sin_hilos.png">
 
 <br>
+procesador
+<img src="./images/Aldana_captura_sinhilos.png">
 
 <br>
 
@@ -34,3 +36,53 @@ procesador intel core i5 10°generación
 <br>
 procesador intel core i7 11° generación
 <img src="./images/sergio_captura_con_hilos.png">
+
+<br>
+procesador
+<img src="./images/Aldana_captura_conhilos.png">
+
+<br>
+
+* 2a) Al ejecutarse los procesos en paralelo el tiempo de ejecución va a ser similar al proceso que tarde más. El tiempo de respuesta con respecto al mismo programa sin hilos mejoró.
+* 2b) Las funciones no completan su ejecución en el orden establecido
+* 2c)
+
+* 3 Capturas
+
+procesador intel core i5 10°generación
+<img src="./images/Jessica_captura_sumadorrestador.jpg">
+
+<br>
+procesador intel core i7 11° generación
+<img>
+
+<br>
+procesador
+<img>
+
+<br>
+
+* 3.a)
+
+* 4 Capturas
+
+procesador intel core i5 10°generación
+<img src="">
+
+<br>
+procesador intel core i7 11° generación
+<img>
+
+<br>
+procesador
+<img>
+
+<br>
+
+* 4.a)
+
+* 4.b)
+
+* 4.c)
+
+* 4.d)
