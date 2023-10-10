@@ -1,6 +1,6 @@
 # Práctico 2b para Arquitectura y Sistemas Operativos UTN
 
-* 1. Capturas
+* 1. Capturas sin hilos
 
 procesador intel core i5 10°generación
 <img src="./images/Jessica_captura_sinhilos.jpg">
@@ -28,7 +28,7 @@ la red o la capacidad del servidor desde el cual se está descargando el archivo
 que el tiempo que lleva completar la descarga puede ser impredecible y no necesariamente
 depende de la velocidad de procesamiento de la computadora.
 
-* 2. Capturas
+* 2. Capturas con hilos
 
 procesador intel core i5 10°generación
 <img src="./images/Jessica_captura_conhilos.jpg">
@@ -45,16 +45,28 @@ procesador
 
 * 2a) Al ejecutarse los procesos en paralelo el tiempo de ejecución va a ser similar al proceso que tarde más. El tiempo de respuesta con respecto al mismo programa sin hilos mejoró.
 * 2b) Las funciones no completan su ejecución en el orden establecido
-* 2c)
+* 2c) En un videojuego moderno, el uso del multihilado es fundamental para mejorar el
+rendimiento del renderizado de gráficos. El renderizado de gráficos requiere una gran
+cantidad de recursos computacionales y es esencial para lograr una experiencia visual
+inmersiva y fluida en tiempo real.
+El multihilado permite dividir la carga de trabajo del renderizado en varios hilos, lo que
+permite realizar múltiples tareas en paralelo. Por ejemplo, se pueden asignar hilos separados
+para el procesamiento de físicas, la generación de sombras, la iluminación y otros efectos
+visuales. Cada hilo se encarga de calcular y actualizar una parte específica de la escena del
+juego.
+De esta manera, al utilizar el multihilado, se puede aprovechar al máximo la capacidad de
+procesamiento de la CPU y acelerar el tiempo de respuesta del sistema. Esto se traduce en
+una mayor fluidez en la animación y una mejor respuesta a las interacciones del jugador, lo
+que mejora significativamente la experiencia de juego en general.
 
-* 3 Capturas
+* 3 Capturas sumador restador
 
 procesador intel core i5 10°generación
 <img src="./images/Jessica_captura_sumadorrestador.jpg">
 
 <br>
 procesador intel core i7 11° generación
-<img>
+<img src="/images/sergio_captura_sumadorrestador.png">
 
 <br>
 procesador
@@ -62,12 +74,10 @@ procesador
 
 <br>
 
-* 3.a)
-
-* 4 Capturas
+* 4 Capturas con race
 
 procesador intel core i5 10°generación
-<img src="">
+<img src="/images/Jessica_captura_conrace.jpg">
 
 <br>
 procesador intel core i7 11° generación

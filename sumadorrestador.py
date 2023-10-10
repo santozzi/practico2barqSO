@@ -5,13 +5,13 @@ acumulador = 0
 def sumador():
     global acumulador
 
-    for x in range(10000):
+    for x in range(1000000):
         acumulador = acumulador + 5
 
 def restador():
     global acumulador
 
-    for x in range(10000):
+    for x in range(1000000):
         acumulador = acumulador - 5
 
 momento_arranque = time.perf_counter()
