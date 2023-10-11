@@ -22,8 +22,8 @@ thr2 = threading.Thread(target=restador)
 thr1.start()
 thr2.start()
 
-thr1.join()
-thr2.join()
+#thr1.join()
+#thr2.join()
 
 momento_parada = time.perf_counter()
 
