@@ -89,7 +89,9 @@ procesador intel core i3 4°generación
 
 <br>
 
-* 4.a)
+* 4.a)Al observar el resultado impreso, se puede notar que el tiempo de ejecución total es
+menor. Esto se debe a que los hilos permiten que las operaciones se realicen de manera
+simultánea, aprovechando los recursos de la máquina para ejecutar tareas en paralelo.
 
 * 4.b)
 
