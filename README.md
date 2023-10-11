@@ -11,6 +11,7 @@ procesador intel core i7 11° generación
 
 <br>
 procesador intel core i3 4°generación
+<br>
 <img src="./images/Aldana_captura_sinhilos.png">
 
 <br>
@@ -39,6 +40,7 @@ procesador intel core i7 11° generación
 
 <br>
 procesador intel core i3 4°generación
+<br>
 <img src="./images/Aldana_captura_conhilos.png">
 
 <br>
@@ -70,6 +72,7 @@ procesador intel core i7 11° generación
 
 <br>
 procesador intel core i3 4°generación
+<br>
 <img src="./images/Aldana_captura_sumadorrestador.png">
 
 <br>
@@ -84,20 +87,16 @@ procesador intel core i7 11° generación
 <img src="./images/sergio_conrace.png">
 
 <br>
-procesador intel core i3 4°generación
-<img src="./images/Aldana_captura_conrace.png">
-
-<br>
 
 * 4.a)Al observar el resultado impreso, se puede notar que el tiempo de ejecución total es
 menor. Esto se debe a que los hilos permiten que las operaciones se realicen de manera
 simultánea, aprovechando los recursos de la máquina para ejecutar tareas en paralelo.
 
-* 4.b)
+* 4.b)No se puede predecir el valor final del acumulador.
 
-* 4.c)
+* 4.c)Sucede esto por el race condition porque los hilos entran a la zona crítica en forma desordenada e impredecible.
 
-* 4.d)
+* 4.d)Esta condición de carrera sin dejar de usar hilos se puede corregir usando algún algoritmo tipo semáforo, en python podemos usar el ".join()" para que cuando se termine de ejecutar uno, comience la siguiente línea. 
 
 * 5 Capturas sin race
 
@@ -109,10 +108,6 @@ procesador intel core i7 11° generación
 <img src="./images/sergio_sinrace.png">
 
 <br>
-procesador intel core i3 4°generación
-<img src="./images/Aldana_captura_sinrace.png">
 
-<br>
-
-* 5.a)
-* 5.b)
+* 5.a)El acumulador siempre da 0 ya que suma y resta 5 la misma cantidad de veces, esto se debe por el método acquire que se utiliza para adquirir o tomar posesión de un recurso compartido, como un semáforo, en un entorno concurrente.
+* 5.b) Con respecto al algoritmo sin hilos el tiempo es menor, ya que usa hilos en paralelo.
