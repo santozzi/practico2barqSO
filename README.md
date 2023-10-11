@@ -1,5 +1,6 @@
 # Práctico 2b para Arquitectura y Sistemas Operativos UTN
 
+
 * 1. Capturas sin hilos
 
 procesador intel core i5 10°generación
@@ -110,4 +111,15 @@ procesador intel core i7 11° generación
 <br>
 
 * 5.a)El acumulador siempre da 0 ya que suma y resta 5 la misma cantidad de veces, esto se debe por el método acquire que se utiliza para adquirir o tomar posesión de un recurso compartido, como un semáforo, en un entorno concurrente.
-* 5.b) Con respecto al algoritmo sin hilos el tiempo es menor, ya que usa hilos en paralelo.
+* 5.b) El tiempo de ejecución es mayor a los demás códigos.
+
+<br>
+
+### Integrantes:
+<ul>
+    <li>Antozzi, Sergio</li>
+    <li>Aranda, Aldana</li>
+    <li>Escobar, Jessica</li>
+</ul>
+<hr>
+<br>
