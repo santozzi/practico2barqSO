@@ -10,7 +10,7 @@ procesador intel core i7 11° generación
 <img src="./images/sergio_capturas_sin_hilos.png">
 
 <br>
-procesador
+procesador intel core i3 4°generación
 <img src="./images/Aldana_captura_sinhilos.png">
 
 <br>
@@ -38,7 +38,7 @@ procesador intel core i7 11° generación
 <img src="./images/sergio_captura_con_hilos.png">
 
 <br>
-procesador
+procesador intel core i3 4°generación
 <img src="./images/Aldana_captura_conhilos.png">
 
 <br>
@@ -66,26 +66,26 @@ procesador intel core i5 10°generación
 
 <br>
 procesador intel core i7 11° generación
-<img src="/images/sergio_captura_sumadorrestador.png">
+<img src="./images/sergio_captura_sumadorrestador.png">
 
 <br>
-procesador
-<img>
+procesador intel core i3 4°generación
+<img src="./images/Aldana_captura_sumadorrestador.png">
 
 <br>
 
 * 4 Capturas con race
 
 procesador intel core i5 10°generación
-<img src="/images/Jessica_captura_conrace.jpg">
+<img src="./images/Jessica_captura_conrace.jpg">
 
 <br>
 procesador intel core i7 11° generación
-<img>
+<img src="./images/sergio_conrace.png">
 
 <br>
-procesador
-<img>
+procesador intel core i3 4°generación
+<img src="./images/Aldana_captura_conrace.png">
 
 <br>
 
@@ -96,3 +96,21 @@ procesador
 * 4.c)
 
 * 4.d)
+
+* 5 Capturas sin race
+
+procesador intel core i5 10°generación
+<img src="./images/Jessica_captura_sinrace.jpg">
+
+<br>
+procesador intel core i7 11° generación
+<img src="./images/sergio_sinrace.png">
+
+<br>
+procesador intel core i3 4°generación
+<img src="./images/Aldana_captura_sinrace.png">
+
+<br>
+
+* 5.a)
+* 5.b)
